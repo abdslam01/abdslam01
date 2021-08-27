@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdslam01&show_icons=true&theme=gotham" alt="abdslam01" />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdslam01&layout=compact&theme=gotham)
+<p style="text-align:center">
+    <img style="width:48%;min-width:368px" src="https://github-readme-stats.vercel.app/api?username=abdslam01&show_icons=true&theme=gotham" alt="abdslam01" />
+    <img style="width:48%;min-width:368px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdslam01&theme=gotham" />
+    <img style="width:48%;min-width:368px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdslam01&layout=compact&theme=gotham" alt="abdslam01" />
+</p>
