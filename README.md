@@ -1,40 +1,36 @@
-<!--
-**abdslam01/abdslam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abdessalam Bahafid 👋
 
-Here are some ideas to get you started:
+**Lead Full Stack Data Engineer & AI Architect** · Ph.D. Researcher in LLMs · Rabat, Morocco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hey there 👋, nice to see you
+I engineer cloud-native AI platforms, distributed real-time data pipelines, and production LLM & Voice systems across AWS, GCP and Azure — taking mission-critical projects from architecture to national-scale deployment.
 
-## My accounts:
-- <a href="https://www.linkedin.com/in/abdessalam-bahafid/">
-  <img align="left" alt="Abdessalam's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br>
- Hello, I'm Abdessalam BAHAFID, a passionate Computer Science Student in Master of Information Systems and Intelligent Systems (M2SI) from Morocco.
+🌐 [pf.abahafid.me](https://pf.abahafid.me) · 💼 [LinkedIn](https://linkedin.com/in/abdessalam-bahafid)
 
-## **Languages and Tools:**  
+## Now
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+- 🔭 **ToumAI** (Jan 2023 — Present): Lead Full Stack Data & AI Engineer, building **HolysticX**, an enterprise multi-tenant conversational AI & voice analytics SaaS.
+- 🎓 **Ph.D. candidate** at INSEA: Large Language Models for Moroccan Darija (pre-training, fine-tuning, low-resource NLP, tokenization).
+- 👨‍🏫 **Adjunct Professor** of Big Data Engineering and Data Warehousing at INSEA (Feb 2024 — Present, 100+ students).
 
-## My GitHub Stats
+## Publication
 
-<p style="text-align:center">
-    <img style="width:48%;min-width:368px" src="https://github-readme-stats.vercel.app/api?username=abdslam01&show_icons=true&theme=gotham" alt="abdslam01" />
-    <img style="width:48%;min-width:368px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdslam01&theme=gotham" />
-    <img style="width:48%;min-width:368px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdslam01&layout=compact&theme=gotham" alt="abdslam01" />
+**Machine Learning and NLP-Based Approach for Constraint Acquisition Problems** — Systems Modelling and Simulation, Springer Nature Singapore, 2025. [doi:10.1007/978-981-96-4613-5_11](https://doi.org/10.1007/978-981-96-4613-5_11)
+
+## Stack
+
+- **AI & LLM:** PyTorch, Hugging Face, LangChain, LangGraph, LlamaIndex, vLLM, Unsloth, RAG / RAGAS, Ollama
+- **Data:** Apache Spark, Airflow, Kafka, dbt, Databricks, Hadoop, Hive
+- **Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Terraform, GitLab CI/CD, GitHub Actions, NetBird
+- **Backend:** FastAPI, Celery, microservices, event-driven, multi-tenant SaaS
+- **Databases:** PostgreSQL, Redis, MongoDB, Qdrant, ChromaDB, Weaviate
+- **Languages:** Python, Scala, SQL, TypeScript, Bash, Java, C/C++, R, PHP, Rust
+
+🗣️ Amazigh · Arabic · English · French
+
+## GitHub stats
+
+<p>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdslam01&theme=github_dark" alt="GitHub stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdslam01&theme=github_dark" alt="Top languages by commit" />
+  <img width="97%" src="https://streak-stats.demolab.com/?user=abdslam01&theme=github-dark-blue" alt="GitHub streak" />
 </p>
